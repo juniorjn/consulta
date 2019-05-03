@@ -1,0 +1,58 @@
+#draggable {
+    width: 100px;
+    height: 100px;
+    padding: 0.5em;
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+
+#circulo{
+    width:100px;
+    height:100px;
+    line-height:300px;
+    vertical-align:middle;
+    text-align:center;
+    font-size:30px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    color: blue;
+    background: blue;
+    display: inline-block;
+}
+
+#tipos {
+    position: relative;
+    width: 300px;
+    height: 390px;
+    padding: 0.5em;
+    float: left;
+    margin: 10px;
+    margin-left: 100px;
+    border-radius: : 15px;
+    border: ridge;
+    border-color: black; 
+    text-align: center;
+}
+
+.green {
+    background-color: chartreuse;
+}
+
+.yellow {
+    background-color: #D7DF01;
+}
+
+.red{
+    background-color:red; 
+}
+
+p,h1 { 
+    font-family: 'Wendy One', sans-serif;
+}
+
+hr{
+    color: black;
+    border: 1px dashed;
+}
+
